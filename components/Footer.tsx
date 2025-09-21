@@ -6,12 +6,12 @@ import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 const REMIX_SUGGESTIONS = [
-  "Remix idea: Generate a contact sheet of your best portraits.",
-  "Remix idea: Add professional backgrounds (office, outdoors).",
-  "Remix idea: Add accessories like glasses or subtle jewelry.",
-  "Remix idea: Add different lighting styles (e.g., studio, natural).",
-  "Remix idea: Let users save their favorite portraits to a gallery.",
-  "Remix idea: Generate different color variations for styles.",
+  "Remix idea: Animate your portrait into a short video for social media.",
+  "Remix idea: Generate consistent headshots for an entire team.",
+  "Remix idea: Build an AI style advisor that suggests flattering outfits.",
+  "Remix idea: Allow users to experiment with different AI-generated hairstyles.",
+  "Remix idea: Create themed portrait packs (e.g., 'Interview Ready').",
+  "Remix idea: Integrate an AI-powered background generator.",
 ];
 
 interface FooterProps {
